@@ -62,10 +62,10 @@ nav a{
 
 .header{
     background-color: #FFF8F3;
-    background-image: url(../assets/images/header_bg.png);
+    background-image: url('../assets/images/header_bg.png'), url('../assets/images/developer.png');
     width: 100%;
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, top left;
 }
 
 .banner{
