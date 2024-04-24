@@ -1,6 +1,7 @@
 /* Common Shared Styles */
 body{
     font-family: "Open Sans", sans-serif;
+    margin: 0;
 }
 .text-primary{
     color: #FD6E0A;
@@ -62,6 +63,7 @@ nav a{
 .header{
     background-color: #FFF8F3;
     background-image: url(../assets/images/header_bg.png);
+    width: 100%;
     background-repeat: no-repeat;
     background-position: bottom right;
 }
